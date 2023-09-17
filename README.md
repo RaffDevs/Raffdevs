@@ -13,7 +13,7 @@ Hi, I'm Rafael Veronez!
 🌱 Studying the .NET ecosystem.
 🌟 Main languages: C#, Kotlin, JavaScript
 🚩 Interested in Full Stack Web and Mobile Application development
-🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://1drv.ms/b/s!Au_TR-pxVwU1g5lRUxd9unyufhZWTw?e=Ewyezh" target="_blank">MY RESUME.</a>
+🤔 I’m currently open for: <b>Freelance</b> or a new <b>job opportunity</b>, this is <a href="https://1drv.ms/b/s!Au_TR-pxVwU1g5lRUxd9unyufhZWTw?e=Ewyezh" target="_blank">MY RESUME.</a>
 </pre>
 <hr>
 
@@ -29,28 +29,32 @@ Hi, I'm Rafael Veronez!
 ### 👨‍💻 Programming Languages
 
 <p>
-    <a href="https://github.com/RaffDevs"><img alt="JavaScript" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
-<a href="https://github.com/RaffDevs"><img alt="JavaScript" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"></a>
-<a href="https://github.com/RaffDevs"><img alt="JavaScript" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"></a>
-<a href="https://github.com/RaffDevs"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
+    <a href="https://github.com/RaffDevs?tab=repositories&q=&type=&language=c%23&sort="><img alt="Csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
+<a href="https://github.com/RaffDevs?tab=repositories&q=&type=&language=kotlin&sort="><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"></a>
+<a href="https://github.com/RaffDevs?tab=repositories&q=&type=&language=swift&sort="><img alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"></a>
+<a href="https://github.com/RaffDevs?tab=repositories&q=&type=&language=vue&sort="><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
+<a href="https://github.com/RaffDevs?tab=repositories&q=&type=&language=dart&sort="><img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"></a>
+	
 </p>
 
 ### 🧰 Frameworks and Libraries
 
 <p>
-    <a href="https://github.com/Bouaskaoun"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="Angular" src="https://img.shields.io/badge/Angular%20-%23D00000.svg?logo=Angular&logoColor=white"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="Spring" src="https://img.shields.io/badge/Spring%20Boot%20-%2334A853.svg?logo=Springboot&logoColor=white"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23150458.svg?logo=Bootstrap&logoColor=white"></a>
+    	<a href="https://github.com/RaffDevs/NetBooksAPI"><img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/></a>
+	<a href="https://github.com/RaffDevs/NestZapBot"><img alt="Nestjs" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/></a>
+	<a href="https://github.com/RaffDevs/GitHubSearcher"><img alt="Android" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"/></a>
+	 <a href="https://github.com/RaffDevs/IGyfs"><img alt="iOS" src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"/></a>
+	<a href="https://github.com/RaffDevs/Tarefas"><img alt="Xamarin" src="https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white"></a>
+	<a href="https://github.com/RaffDevs/conversor-flutter"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"></a>
+	<a href="https://github.com/RaffDevs/Todo-Dracula"><img alt="Vue" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"></a>
+	
+	
 </p>
 
 ### 🗄️ Databases and Cloud Hosting
 
 <p>
-    <a href="https://github.com/Bouaskaoun"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
+    <img alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white">
     <a href="https://github.com/Bouaskaoun"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23FF6F00.svg?logo=firebase&logoColor=white"></a>
 </p>
 
