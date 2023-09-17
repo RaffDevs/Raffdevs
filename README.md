@@ -5,8 +5,6 @@ Hi, I'm Rafael Veronez!
 	</a>
 </h1>
 
-<hr>
-
 <pre>
 💻 I am a Fullstack Web and Mobile Developer.
 📚 I am studying Multiplatform Software Development at the Dr. Thomaz Novelino Technology College in Brazil.
@@ -15,7 +13,6 @@ Hi, I'm Rafael Veronez!
 🚩 Interested in Full Stack Web and Mobile Application development
 🤔 I’m currently open for: <b>Freelance</b> or a new <b>job opportunity</b>, this is <a href="https://1drv.ms/b/s!Au_TR-pxVwU1g5lRUxd9unyufhZWTw?e=Ewyezh" target="_blank">MY RESUME.</a>
 </pre>
-<hr>
 
 ## 🤝 Connect with me
 <p align="center">
