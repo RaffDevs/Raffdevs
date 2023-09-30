@@ -71,9 +71,9 @@ Hi, I'm Rafael Veronez!
 <summary><b>⚡ Rafael's Stats</b></summary>
 <br/>
 <p align="center">
-	<a href="https://github.com/Bouaskaoun">
+	<a href="https://github.com/RaffDevs">
 	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=RaffDevs&show_icons=true" alt="raffdevs">
-	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=RaffDevs" alt="bouaskaoun">
+	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=RaffDevs" alt="raffdevs">
 	</a>
 	<br/>
 </p>
@@ -83,7 +83,7 @@ Hi, I'm Rafael Veronez!
 
 <p align="center">
 	<a href="https://github.com/RaffDevs">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaffDevs&langs_count=8&layout=compact" alt="bouaskaoun">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaffDevs&langs_count=8&layout=compact" alt="raffdevs">
 	</a>
 	<br/>
 <br/>
